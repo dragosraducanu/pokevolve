@@ -57,7 +57,8 @@ sequenceDiagram
 ```
 
 ### Application demo
-https://github.com/cherepanovk/cw-interview-dragos-raducanu/assets/3254786/c452a4e9-d6c4-41a0-898b-a8c064d3c4ee
+https://github.com/dragosraducanu/pokevolve/assets/3254786/a13e3478-3803-4da1-b9c4-d09996e6d34d
+
 
 ### Other activities that would be needed for a production app, in no particular order (and are not part of this assignment):
 - [ ] different build types and product flavors
