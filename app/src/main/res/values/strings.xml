@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PokeVolve</string>
+    <string name="species_list_next_page_error_message">Sorry, couldn\'t load more species.</string>
+    <string name="species_list_empty">Sorry, no species found!</string>
+
+    <string name="species_details_not_found">Sorry, couldn\'t load the species!</string>
+    <string name="species_details_evolution_not_found">Sorry, couldn\'t load the evolution chain.</string>
+
+    <string name="species_details_doesnt_evolve">End of the evolution chain. This species doesn\'t evolve.</string>
+    <string name="content_desc_pokemon_species_image">Species Image</string>
+    <string name="content_desc_navigate_back">Navigate back</string>
+    <string name="content_desc_evolution_arrow">Evolution arrow</string>
+</resources>
